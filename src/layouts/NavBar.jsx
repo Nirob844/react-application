@@ -2,8 +2,8 @@
 const NavBar = () => {
 
     const navOptions = <>
-        <li><a>Item1</a></li>
-        <li><a>Item2</a></li>
+        <li><a>Home</a></li>
+        <li><a>About</a></li>
     </>
 
     return (

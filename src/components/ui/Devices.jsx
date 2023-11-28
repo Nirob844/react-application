@@ -22,8 +22,6 @@ const Devices = () => {
         fetchData();
     }, []);
 
-    // console.log(devices);
-
     const handleDeviceClick = (device) => {
         setSelectedDevice(device);
     };
