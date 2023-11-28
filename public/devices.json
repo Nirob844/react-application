@@ -1,0 +1,100 @@
+{
+  "devices": [
+    {
+      "name": "Device 1",
+      "description": "This is device 1",
+      "location": "Living room",
+      "lastResult": 123141
+    },
+    {
+      "name": "Device 2",
+      "description": "This is device 2",
+      "location": "Office",
+      "lastResult": 267
+    },
+    {
+      "name": "Device 3",
+      "description": "This is device 3",
+      "location": "Kitchen",
+      "lastResult": 725
+    },
+    {
+      "name": "Device 4",
+      "description": "This is device 4",
+      "location": "Living room",
+      "lastResult": 975
+    },
+    {
+      "name": "Device 5",
+      "description": "This is device 5",
+      "location": "Kitchen",
+      "lastResult": 2244
+    },
+    {
+      "name": "Device 6",
+      "description": "This is device 6",
+      "location": "Kitchen",
+      "lastResult": 1
+    },
+    {
+      "name": "Device 7",
+      "description": "This is device 7",
+      "location": "Living room",
+      "lastResult": 5714
+    },
+    {
+      "name": "Device 8",
+      "description": "This is device 8",
+      "location": "Office",
+      "lastResult": 23467
+    },
+    {
+      "name": "Device 9",
+      "description": "This is device 9",
+      "location": "Living room",
+      "lastResult": 123141
+    },
+    {
+      "name": "Device 10",
+      "description": "This is device 10",
+      "location": "School",
+      "lastResult": 14151
+    },
+    {
+      "name": "Device 11",
+      "description": "This is device 11",
+      "location": "School",
+      "lastResult": 6747
+    },
+    {
+      "name": "Device2 1",
+      "description": "This is device 12",
+      "location": "Living room",
+      "lastResult": 2313
+    },
+    {
+      "name": "Devic3e 1",
+      "description": "This is device 13",
+      "location": "University",
+      "lastResult": 41421
+    },
+    {
+      "name": "Devi4ce 1",
+      "description": "This is device 14",
+      "location": "Living room",
+      "lastResult": 222
+    },
+    {
+      "name": "Dev5ice 1",
+      "description": "This is device 15",
+      "location": "University",
+      "lastResult": 21131
+    },
+    {
+      "name": "De6vice 1",
+      "description": "This is device 16",
+      "location": "University",
+      "lastResult": 1414
+    }
+  ]
+}
